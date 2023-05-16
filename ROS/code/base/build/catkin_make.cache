@@ -1,2 +1,2 @@
-test1
--DCATKIN_DEVEL_PREFIX=/home/highler/github/Robot-Learning/ROS/code/base/devel -DCMAKE_INSTALL_PREFIX=/home/highler/github/Robot-Learning/ROS/code/base/install -G Unix Makefiles
+static_coords:test1
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=/home/highler/github/Robot-Learning/ROS/code/base/devel -DCMAKE_INSTALL_PREFIX=/home/highler/github/Robot-Learning/ROS/code/base/install -G Unix Makefiles
