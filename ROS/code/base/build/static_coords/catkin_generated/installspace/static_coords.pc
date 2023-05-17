@@ -1,8 +1,0 @@
-prefix=/home/highler/github/Robot-Learning/ROS/code/base/install
-
-Name: static_coords
-Description: Description of static_coords
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
